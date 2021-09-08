@@ -1,0 +1,6 @@
+SOURCE_URL=https://downloads.rclone.org/v1.56.0/rclone-v1.56.0-linux-386.zip
+SOURCE_SUM=b1accc32bce8291fbbe929cac3e7e2663e4667e55aff1001257f627eda478fbc
+SOURCE_SUM_PRG=sha256sum
+SOURCE_FORMAT=zip
+SOURCE_IN_SUBDIR=true
+SOURCE_EXTRACT=true
